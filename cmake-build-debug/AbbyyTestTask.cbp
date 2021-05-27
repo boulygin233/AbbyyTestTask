@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AbbyyTestTask"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AbbyyTestTask">
+				<Option output="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/AbbyyTestTask" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 AbbyyTestTask"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AbbyyTestTask/fast">
+				<Option output="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/AbbyyTestTask" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 AbbyyTestTask/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/Circle.cpp">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/Circle.h">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/Rectangle.cpp">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/Rectangle.h">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/Triangle.cpp">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/Triangle.h">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/abstract_shape.h">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/main.cpp">
+			<Option target="AbbyyTestTask"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

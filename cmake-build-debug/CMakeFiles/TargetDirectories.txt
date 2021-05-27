@@ -1,0 +1,3 @@
+/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/boulygin/boulygin/Учеба/Abbyy/AbbyyTestTask/cmake-build-debug/CMakeFiles/AbbyyTestTask.dir

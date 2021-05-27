@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AbbyyTestTask.dir/main.cpp.o CMakeFiles/AbbyyTestTask.dir/Triangle.cpp.o CMakeFiles/AbbyyTestTask.dir/Rectangle.cpp.o CMakeFiles/AbbyyTestTask.dir/Circle.cpp.o  -o AbbyyTestTask 
